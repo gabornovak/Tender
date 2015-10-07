@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tender</string>
+    <string name="action_settings">Settings</string>
+    <string name="age_text">%d years old</string>
+    <string name="now_online_text">Now online</string>
+    <string name="last_login_time_text">Last login: %s ago</string>
+    <string name="main_activity_title">Tender</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
